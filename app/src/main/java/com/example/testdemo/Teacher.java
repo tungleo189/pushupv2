@@ -1,7 +1,5 @@
 package com.example.testdemo;
 
-public class Student {
-
+public class Teacher {
     private int id;
-
 }
