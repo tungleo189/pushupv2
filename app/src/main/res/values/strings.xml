@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="textView">Chào mừng bạn đã đến với Android</string>
+    <string name="textView1">Your avata</string>
+    <string name="btnJoin">Join</string>
+    <string name="changeAvata">Change avata</string>
+    <string name="btnSave">Save</string>
+</resources>
